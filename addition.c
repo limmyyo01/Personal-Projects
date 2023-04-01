@@ -4,5 +4,6 @@ int main (void)
 {
     int firstnum = get_int ("input first number ?");
     int secondnum = get_int ("input second number ?");
-    printf("%i + %i",== %i + %i, firstnum, secondnum);
+    int result = get_int ( first+ %i )
+    printf("%i + %i == result", firstnum, secondnum);
 }
