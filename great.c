@@ -4,7 +4,7 @@
 int main (void)
 {
     string answer = get_string("what is your name ?");
-    printf("hello, %s, have a nice day", answer\n);
+    printf("hello, %s, have a nice day \n", answer);
     int age = get_int ("how old are you ?");
     printf("hello %s, you are %i, years old", answer, age);
 }
