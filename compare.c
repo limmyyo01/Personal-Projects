@@ -17,6 +17,6 @@ int main (void)
 }
  else
 {
-  ("first number is equal to second number");
+ printf ("first number is equal to second number");
 }
 }
