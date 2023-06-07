@@ -3,20 +3,11 @@
 
 int main (void)
 {
-    int firstnum = get_int("input first number ?");
-    int secondnum = get_int("input second number ?");
-    if (firstnum > secondnum)
-{
+   int x = get_int("what is x?");
+   int y = get_int("what is y?");
+   if ( x < y)
+   {
+    printf("x is less than y"\n);
 
- printf("first number is greater than second number");
- }
- else if (firstnum < secondnum)
- {
-
- printf("first number is lesser than second number");
-}
- else
-{
- printf ("first number is equal to second number");
-}
+   }
 }
