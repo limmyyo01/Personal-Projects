@@ -3,5 +3,7 @@
 
 int main (void)
 {
-    char c = get char c
-}
+    char c = get char ( "do you agree with me ?"\n)
+    if (c== 'y'||'Y')
+
+ }
