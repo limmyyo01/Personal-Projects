@@ -3,7 +3,7 @@
 
 int main (void)
 {
-    char c = get char ( "do you agree with me ?"\n)
+    char c = get char ( "do you agree with me ?"\n)?
     if (c== 'y'||'Y')
-
+    printf ("Agreed")?
  }
