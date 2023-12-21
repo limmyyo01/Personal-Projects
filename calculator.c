@@ -21,6 +21,6 @@ int main(void)
         printf("%d\n", times);
     }else if (symbol == /)
     {
-        
+        int div
     }
 }
