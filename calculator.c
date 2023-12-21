@@ -3,7 +3,7 @@
 
 int main(void)
 {
- int firstNumber =get_int("first number? ");
+ long firstNumber =get_int("first number? ");
  int secondNumber =get_int("second number? ");
  char symbol =get_char("symbol?\n ");
     if(symbol == '+')
