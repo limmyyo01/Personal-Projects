@@ -8,6 +8,6 @@ int main(void)
  int symbol =get_int("symbol?\n ");
     if(symbol == +)
     {
-        printf(firstNumber+secondNumber);
+      //  printf(firstNumber+secondNumber);
     }
 }
