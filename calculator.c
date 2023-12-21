@@ -7,8 +7,8 @@ int main(void)
  long secondNumber =get_long("second number? ");
  char symbol =get_char("symbol? ");
     if(symbol == (+ - * /)
-    {
-        int sum = firstNumber + secondNumber;
+  int sum  {
+        sum = firstNumber + secondNumber;
         printf("%d\n", sum);
     }
 }
