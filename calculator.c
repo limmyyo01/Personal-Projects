@@ -5,7 +5,7 @@ int main(void)
 {
  int firstNumber =get_int("first number? ");
  int secondNumber =get_int("second number? ");
- char symbol =get_int("symbol?\n ");
+ char symbol =get_char("symbol?\n ");
     if(symbol == '+')
     {
         int sum = firstNumber + secondNumber;
