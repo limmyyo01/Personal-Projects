@@ -3,5 +3,5 @@
 
 int main(void)
 {
-    get_string("first number)
+ int n =get_string("first number" ?);
 }
