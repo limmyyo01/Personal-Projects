@@ -3,9 +3,9 @@
 
 int main(void)
 {
- long firstNumber =get_int("first number? ");
- int secondNumber =get_int("second number? ");
- char symbol =get_char("symbol?\n ");
+ long firstNumber =get_long("first number? ");
+ long secondNumber =get_long("second number? ");
+ char symbol =get_char("symbol? ");
     if(symbol == '+')
     {
         int sum = firstNumber + secondNumber;
