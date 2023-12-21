@@ -3,8 +3,11 @@
 
 int main(void)
 {
- int firstNumber =get_string("first number? ");
- int secondNumber =get_string("second number? ");
- bool
-
+ int firstNumber =get_int("first number? ");
+ int secondNumber =get_int("second number? ");
+ int symbol =get_int("symbol?\n ");
+    if(symbol == +)
+    {
+        printf(firstNumber+secondNumber);
+    }
 }
