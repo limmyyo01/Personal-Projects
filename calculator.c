@@ -9,6 +9,6 @@ int main(void)
     if(symbol == '+')
     {
         int sum = (firstNumber + secondNumber);
-        printf(sum)
+        printf("%d", sum);
     }
 }
