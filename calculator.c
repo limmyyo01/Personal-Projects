@@ -3,5 +3,6 @@
 
 int main(void)
 {
- int n =get_string("first number" ?);
+ int firstNumber =get_string("first number" ?);
+ int secondNumber =get_string("second number")
 }
