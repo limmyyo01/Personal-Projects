@@ -6,8 +6,8 @@ int main(void)
  int firstNumber =get_int("first number? ");
  int secondNumber =get_int("second number? ");
  int symbol =get_int("symbol?\n ");
-    if(symbol == +)
+    if(symbol == '+')
     {
-      //  printf(firstNumber+secondNumber);
+        printf(firstNumber + secondNumber);
     }
 }
