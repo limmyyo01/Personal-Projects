@@ -8,7 +8,7 @@ int main(void)
  char symbol =get_int("symbol?\n ");
     if(symbol == '+')
     {
-        int sum = (firstNumber + secondNumber);
+        int sum = firstNumber + secondNumber;
         printf("%d\n", sum);
     }
 }
