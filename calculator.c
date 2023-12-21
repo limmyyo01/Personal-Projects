@@ -21,6 +21,8 @@ int main(void)
         printf("%d\n", times);
     }else if (symbol == /)
     {
-        int div
-    }
+        int div = firstNumber/secondNumber;
+        printf("%d\n", div);
+    }else
+        printf("invalid input");
 }
